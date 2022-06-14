@@ -1,0 +1,16 @@
+.ObtenerPermisos {}
+
+.cover
+{
+    margin-top:1rem;
+}
+
+.button
+{
+    background-color: #006fd5;
+}
+
+.table-striped > tbody > tr:nth-of-type(2n+1) > * {
+    --bs-table-accent-bg: rgba(0,111,213,0.1);
+    color: var(--bs-table-striped-color);
+  }
